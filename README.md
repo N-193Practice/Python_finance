@@ -1,6 +1,7 @@
 # Python_finance
 # Python
 Creating a finance application using Streamlit
+Jupiter Lab describes the steps for creating an app with streamlit
 
 Welcome to the This page.
 The following is a guide.
